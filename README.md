@@ -1,4 +1,4 @@
-# yolov5-fire-smoke-detect-python
+# yolov5-helmet-detection-python
 A Python implementation of Yolov5 to detect head or helmet in the wild in Jetson Xavier nx and Jetson nano.  In Jetson Xavier Nx, it can achieve 33 FPS.
 
 You can see video play in [BILIBILI](https://www.bilibili.com/video/BV1Kv411M7u2/), or [YOUTUBE](https://www.youtube.com/watch?v=ZFCIcMngP08).
